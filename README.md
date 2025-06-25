@@ -1,5 +1,2 @@
 # Letters-from-Santa
-
-Here is my repository of letters I write to children.
-
-I do make a lot of mistakes though!
+This was a bad idea. where are their parents??
